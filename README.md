@@ -3,7 +3,11 @@ This project is a wireless health monitoring system for mineworkers. It uses an 
 
 
 Components
+  
   Esp8266
-  MQ9
-  MAX30102
-  9v battery
+ 
+   MQ9
+ 
+   MAX30102
+ 
+   9v battery
